@@ -25,6 +25,6 @@ Note: Installing the mod using BCML does not work for some reason
 
 ## Screenshots
 
-![](https://drive.google.com/uc?export=view&id=1x-NKQjtHHk1OdyuKr2d2jjwRP3M4X7aS)
+![](https://github.com/Ta180m/Breath-of-the-Wild-Zelda-Mod/blob/master/Screenshots/screenshot_46.png)
 
-![](https://drive.google.com/uc?export=view&id=1TUKN_-2rQ5geyM74wBnr5ajaYgviftmT)
+![](https://github.com/Ta180m/Breath-of-the-Wild-Zelda-Mod/blob/master/Screenshots/screenshot_39.png)
