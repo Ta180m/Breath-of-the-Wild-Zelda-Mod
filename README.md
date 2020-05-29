@@ -8,7 +8,7 @@ Note: This only works for the Wii U version of Breath of the Wild. A Switch port
 
 ## Usage
 
-- Download this repository as a ZIP.
+- Download this repository as a ZIP
 
 ### Physical Wii U
 
