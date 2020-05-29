@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Development on the Breath of the Wild Zelda Mod has seemed to have stalled since 2018, so it mostly exists only in small fragments posted on various mod-sharing websites. So, I've collected most of the publicly accessible components into a single unofficial mod pack that can be downloaded and used with a physical Wii U or the Cemu emulator. It's very incomplete but still playable.
+Development on the Breath of the Wild Zelda Mod has seemed to have stalled since 2018, so it mostly exists only in small fragments posted on various mod-sharing websites. So, I've collected most of the publicly accessible components into a single unofficial mod pack that can be downloaded and used with a physical Wii U or the Cemu emulator. It's very incomplete but still playable. Also watch out for random crashing, especially on a physical Wii U.
 
 Note: This only works for the Wii U version of Breath of the Wild. A Switch port also exists but it's even more incomplete.
 
@@ -25,4 +25,4 @@ Note: Installing the mod using BCML does not work for some reason
 
 ### Screenshots
 
-- Coming soon
+![](https://drive.google.com/uc?export=view&id=1x-NKQjtHHk1OdyuKr2d2jjwRP3M4X7aS)
