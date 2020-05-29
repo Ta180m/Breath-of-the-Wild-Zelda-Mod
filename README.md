@@ -23,6 +23,8 @@ Note: This only works for the Wii U version of Breath of the Wild. A Switch port
 
 Note: Installing the mod using BCML does not work for some reason
 
-### Screenshots
+## Screenshots
 
 ![](https://drive.google.com/uc?export=view&id=1x-NKQjtHHk1OdyuKr2d2jjwRP3M4X7aS)
+
+![](https://drive.google.com/uc?export=view&id=1TUKN_-2rQ5geyM74wBnr5ajaYgviftmT)
